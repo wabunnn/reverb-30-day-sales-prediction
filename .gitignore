@@ -1,0 +1,15 @@
+# Private Reverb sales data
+data/
+*.csv
+*.xlsx
+*.xls
+
+# Python-generated files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+
+# macOS files
+.DS_Store
