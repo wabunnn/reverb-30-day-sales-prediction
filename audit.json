@@ -1,0 +1,50 @@
+{
+  "rows": 3351,
+  "columns": 40,
+  "unique_ids": 3351,
+  "duplicates": 0,
+  "determined": 3238,
+  "positives": 2246,
+  "negatives": 992,
+  "unresolved": 113,
+  "price_at_publication_verified": 0,
+  "missing_features": {
+    "exported_listing_price": 0,
+    "exported_shipping_price": 2,
+    "condition": 0,
+    "product_type": 0,
+    "offers_enabled": 0,
+    "local_pickup": 0,
+    "new_listing": 0
+  },
+  "splits": {
+    "train": {
+      "n": 2266,
+      "positive": 1618,
+      "start": "2025-03-20",
+      "end": "2026-04-02"
+    },
+    "validation": {
+      "n": 486,
+      "positive": 306,
+      "start": "2026-04-02",
+      "end": "2026-07-16"
+    },
+    "test": {
+      "n": 486,
+      "positive": 322,
+      "start": "2026-07-16",
+      "end": "2026-10-29"
+    }
+  },
+  "category_counts": {
+    "effects-and-pedals": 1052,
+    "pro-audio": 947,
+    "keyboards-and-synths": 475,
+    "amps": 285,
+    "accessories": 217,
+    "electric-guitars": 193,
+    "acoustic-guitars": 22,
+    "drums-and-percussion": 16
+  }
+}
